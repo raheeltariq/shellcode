@@ -1,2 +1,7 @@
 this is file 5 add
+<<<<<<< Updated upstream
 echo usa
+=======
+echo usa
+echo uk
+>>>>>>> Stashed changes
