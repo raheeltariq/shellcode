@@ -1,6 +1,10 @@
 this is file 3 devops 
+<<<<<<< HEAD
 redhat class start
 echo pakistan
 this is file 3 devops 
 redhat class start
 
+=======
+redhat class start
+>>>>>>> parent of 610c4bb (new file3 change)
