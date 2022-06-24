@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 this is file 5 add
-<<<<<<< Updated upstream
-echo usa
-=======
+echo usa1
 echo usa
 echo uk
->>>>>>> Stashed changes
-=======
 this is file 5 add
->>>>>>> parent of 4c69e1c (tariq)
+this is file 6 add
+
