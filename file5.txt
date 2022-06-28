@@ -1,7 +1,9 @@
 this is file 5 add
 echo usa
 echo usa
+echo usa
 echo uk
 this is file 5 add
 this is file 6 add
 this is file 5 add
+
